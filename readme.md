@@ -1,2 +1,2 @@
 readme file
-git commit-m
+git commit-mgit 

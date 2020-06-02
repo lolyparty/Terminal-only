@@ -1,1 +1,1 @@
-Using only the termial to commit changes to this repository i order to know more about git
+Using only the termial to commit changes to this repository in order to know more about git

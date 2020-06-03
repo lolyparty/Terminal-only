@@ -1,3 +1,3 @@
 Using only the termial to commit changes to this repository in order to know more about git
 
-committed scrit to hng repo today
+committed script to hng repo today. Happy to be participating in HNGi7 internship
